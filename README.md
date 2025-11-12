@@ -59,7 +59,7 @@
   <img style="width:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb logo" style="height:40px; width:auto;" />
   <img style="width:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" alt="mongodb logo" style="height:40px; width:auto;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo" style="height:40px; width:auto;" />
 </div>
 
 ###
